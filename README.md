@@ -1,0 +1,2 @@
+# InfoFLEX
+Files, which are held in current folder, contains some basic explanation about the concept of collaboration between different actors of the energy market. Phrase "different actors" means that two or more devices, provided by different vendors and supported different communication protocols can communicate between each other with help of approach, designed and tested specially in the InfoFLEX project's boundaries.
